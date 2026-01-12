@@ -1,22 +1,15 @@
 # 👋 Olá, eu sou o Kayke!
 
-🎓 Estudante de programação  
-💻 Focado em Programação Orientada a Objetos e lógica de programação  
+Técnico em Informtáica - IFPB
+Estudante de Engenharia da Computação - IFPB
 
 ---
 
 ## 🚀 Tecnologias e interesses
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,bootstrap,github" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,mysql,bootstrap,github" />
   
 </div>
-
-
-- Programação Orientada a Objetos
-- Estruturas de Dados
-- Algoritmos
-- Desenvolvimento de jogos simples
-- Desenvolvimento de sites
 
 ---
 
@@ -26,8 +19,12 @@ Simulação de um cassino virtual com os jogos:
 - Blackjack  
 - Maior Carta  
 
+🔗 [Cassino em POO](https://github.com/KaykeAlves07/Projeto-POO) — Simulação de cassino  
 ---
 
 ## 📫 Contato
 Email: kaykeh.dev@gmail.com  
-Linkedin: https://www.linkedin.com/in/kayke-alves/
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-alves/)  
+✉️ kaykeh.dev@gmail.com
+
+![Kayke's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaykeAlves07&show_icons=true&theme=tokyonight)
