@@ -10,6 +10,7 @@
   <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,bootstrap,github" />
 </div>
 
+
 - Programação Orientada a Objetos
 - Estruturas de Dados
 - Algoritmos
