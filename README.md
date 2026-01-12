@@ -20,3 +20,12 @@ Técnico em Informtáica pelo IFPB-CG e estudante do curso Bacharel em Engenhari
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-alves/)  
 ✉️ kaykeh.dev@gmail.com
 
+<!-- GitHub Stats -->
+![Kayke's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaykeAlves07&show_icons=true&theme=tokyonight)
+
+<!-- Activity Graph -->
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaykeAlves07&theme=react-dark)
+
+<!-- Snake Game -->
+![Snake animation](https://github.com/KaykeAlves07/KaykeAlves07/blob/output/github-contribution-grid-snake.svg)
+
