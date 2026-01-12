@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Kayke!
 
 Técnico em Informtáica - IFPB
-Estudante de Engenharia da Computação - IFPB
+Bacharel em Engenharia de Computação - IFPB
 
 ---
 
@@ -18,6 +18,6 @@ Estudante de Engenharia da Computação - IFPB
 ---
 
 ## 📫 Contato
-✉️ kaykeh.dev@gmail.com
 [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kayke-alves/)  
+✉️ kaykeh.dev@gmail.com
 
