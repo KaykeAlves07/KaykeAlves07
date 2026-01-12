@@ -8,6 +8,7 @@
 ## 🚀 Tecnologias e interesses
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,bootstrap,github" />
+  
 </div>
 
 
