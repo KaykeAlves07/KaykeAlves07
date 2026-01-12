@@ -1,0 +1,14 @@
+            - nome: Gerador do jogo da cobrinha a partir de contribuições do Github
+  Você pode fixar o commit exato ou a versão.
+  # usos: Sutil/snk@6a523414b8099799732942e4c95aacbc57a51cae
+  utiliza: Sutil/snk@v01.00.02
+  com:
+    # nome de usuário do GitHub
+    nome_de_usuário_do_github:
+    # Caminho do arquivo GIF gerado. Se deixado em branco, o arquivo GIF não será gerado.
+    gif_out_path: # opcional
+    # Caminho do arquivo SVG gerado. Se deixado em branco, o arquivo SVG não será gerado.
+    svg_out_path: # opcional
+    # Use a cor Hash para desenhar a cobra
+    cor_da_cobra: # opcional
+          
