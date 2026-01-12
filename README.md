@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Kayke!
 
-Técnico em Informtáica - IFPB
-Bacharel em Engenharia de Computação - IFPB
+Técnico em Informtáica pelo IFPB-CG e estudante do curso Bacharel em Engenharia de Computação pelo IFPB-CG.
 
 ---
 
