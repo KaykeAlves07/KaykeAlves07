@@ -6,7 +6,7 @@ Técnico em Informtáica pelo IFPB-CG e estudante do curso Bacharel em Engenhari
 
 ## 🚀 Tecnologias e interesses
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,mysql,bootstrap,github,BD" />
+  <img src="https://skillicons.dev/icons?i=pycharm,vscode,python,c,java,javascript,html,css,nodejs,mysql,bootstrap,github" />
   
 </div>
 
